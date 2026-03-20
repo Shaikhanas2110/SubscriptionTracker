@@ -306,4 +306,4 @@ or open an issue on GitHub
 ---
 
 **Built with ❤️ by the SubTracker Team**  
-*Last updated: December 2024*
+*Last updated: December 2025*
