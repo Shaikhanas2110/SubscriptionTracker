@@ -7,7 +7,7 @@ const errorMessage = form.querySelector(".error-message");
 // Email validation regex
 const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
-// Validate individual field
+
 function validateField(field) {
   const formGroup = field.closest(".form-group");
   const errorSpan = formGroup.querySelector(".form-error");
