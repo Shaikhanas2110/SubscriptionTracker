@@ -30,7 +30,7 @@ function validateField(field) {
     errorMsg = "Message must be at least 10 characters";
   }
 
-  // Update UI
+
   if (isValid) {
     formGroup.classList.remove("error");
     errorSpan.textContent = "";
