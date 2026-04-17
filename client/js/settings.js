@@ -18,7 +18,7 @@ class SettingsManager {
     this.currentUser = JSON.parse(localStorage.getItem("currentUser"));
     this.userProfile = null;
 
-    // Run initialization steps
+
     this.checkAuthentication();
     this.loadUserData();
     this.setupEventListeners();
