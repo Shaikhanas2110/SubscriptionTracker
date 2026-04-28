@@ -4,7 +4,7 @@ const submitBtn = form.querySelector(".submit-btn");
 const successMessage = form.querySelector(".success-message");
 const errorMessage = form.querySelector(".error-message");
 
-// Email validation regex
+
 const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 
