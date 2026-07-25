@@ -1,5 +1,5 @@
 // =========================
-// API CONFIGURATION
+
 // =========================
 // This is the base URL where our backend server (API) is running.
 // All requests like login, register, or get user info will be sent here.
